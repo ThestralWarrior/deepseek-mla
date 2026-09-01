@@ -1,2 +1,2 @@
 torch
-transformers
+transformers==5.16.1
